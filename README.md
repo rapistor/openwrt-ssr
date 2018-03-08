@@ -2,15 +2,15 @@
 
 SSR需要安装(按顺序)
 luci-app-ChinaDNS_1.3.1-1_all.ipk
-luci-app-pdnsd_git-17.232.21093-079f65a-1_all.ipk
-luci-i18n-pdnsd-zh-cn_git-17.232.21093-079f65a-1_all.ipk
+luci-app-pdnsd_git-***_all.ipk
+luci-i18n-pdnsd-zh-cn_git-***-1_all.ipk
 luci-app-shadowsocksR-GFW_1.2.2_all.ipk
 
 ss需要安装(按顺序)
 luci-app-ChinaDNS_1.3.1-1_all.ipk
-luci-app-pdnsd_git-17.232.21093-079f65a-1_all.ipk
-luci-i18n-pdnsd-zh-cn_git-17.232.21093-079f65a-1_all.ipk
-Shadowsocks-libev-spec_3.1.0-2_arm_cortex-a9_vfpv3.ipk
+luci-app-pdnsd_git-***-1_all.ipk
+luci-i18n-pdnsd-zh-cn_git-***-1_all.ipk
+Shadowsocks-libev-spec_3.1.0-2_***.ipk
 luci-app-shadowsocks-spec_1.3.1-1_all.ipk
 
 
