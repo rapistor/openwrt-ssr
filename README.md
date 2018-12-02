@@ -13,6 +13,7 @@ luci-i18n-pdnsd-zh-cn_git-***-1_all.ipk
 Shadowsocks-libev-spec_3.1.0-2_***.ipk
 luci-app-shadowsocks-spec_1.3.1-1_all.ipk
 
+new-lede-ar71xx 下的ipk配合v1.4版本使用，含有订阅功能。
 
 其它可在安装完以上任意一组后选装。
 
